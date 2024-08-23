@@ -1,4 +1,5 @@
 # CS-210
+#Chada Tech Clock
 
 Project Summary
 This project involved creating two clocks, one in 12-hour format and the other in 24-hour format, to meet the international standard ISO 8601 for Chada Tech. The primary goal was to allow users to view both clocks simultaneously and interact with the program to add hours, minutes, or seconds to the displayed time. This functionality was implemented using object-oriented programming principles in C++, focusing on modularity, clarity, and efficiency.
